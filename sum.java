@@ -1,3 +1,4 @@
+
 //NAME : Doris Nduta 
 //REG NO : CT101/G/21006/23
 //DATE : 22/01/2025
@@ -15,4 +16,3 @@ public class sum{
     //print out the sum of the two numbers
     System.out.println("sum is:"+sum);
     }
-}
